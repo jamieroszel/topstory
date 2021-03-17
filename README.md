@@ -16,7 +16,7 @@
 
 Javascript, specifically the fetch method. The fetch method pulls the appropriate API and returns the data in .json format. That data is mapped (using the map function), which pulls the article url and abstract. 
 
-The URL and abstract are then appended to an <a> tag and <p> tag, respectively. 
+The URL and abstract are then appended to an 'a' tag and 'p' tag, respectively. 
 
 The process is the same for Top Stories, Popular Stories, and NewsWire. Thanks Enlight, on [YouTube](https://youtu.be/RyeSXC4eww0), for a great outline of the fetch method.
 
